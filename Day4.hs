@@ -1,6 +1,3 @@
-{-# LANGUAGE LambdaCase #-}
-module Day4 where
-
 import Text.Parsec
 import Text.Parsec.String
 import Control.Monad (guard)
